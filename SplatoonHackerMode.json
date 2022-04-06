@@ -1,6 +1,6 @@
 {
   "latestversion": 1.1,
   "latestversiondownloadlink": "https://github.com/Dan-Banfield/Splatoon-HackerMode",
-  "notice": "",
-  "changelog": "Fixed an issue that would prevent the user from connection to older Wii U devices."
+  "notice": "This is a notice.",
+  "changelog": "Fixed an issue that would prevent the user from connecting to older Wii U devices."
 }
